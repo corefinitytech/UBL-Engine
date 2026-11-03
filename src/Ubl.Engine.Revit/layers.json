@@ -1,0 +1,7 @@
+{
+  "Column": ["COL", "COLUMN", "COLUMNS", "S-COLS", "S-COLUMN"],
+  "WallHatch": ["WALL", "A-WALL", "A-WALL-PATT", "A-WALL-EXST"],
+  "WallLines": ["WALLS", "L.H.W", "A-WALL", "BOUNDARY", "A-WALL-EXST"],
+  "Beam": ["BEAM", "BEAMS", "S-BEAM"],
+  "Stair": ["STAIR STEP", "STAIR", "STAIRS", "A-FLOR-STRS", "MATEL"]
+}

@@ -1,0 +1,23 @@
+{
+  "road_name": null,
+  "north_deg": null,
+  "neighbours": {},
+  "beam_label": "DROP BEAM {depth}",
+  "title_block": {
+    "title": "AS BUILT LAYOUT PLAN (GROUND FLOOR)",
+    "client": "UNITED BANK LIMITED",
+    "client_logo": null,
+    "project": null,
+    "drawing_no": "AR-21",
+    "project_no": null,
+    "date": "OCT-2026",
+    "status": "ENGINE PREVIEW",
+    "people": {"drawn": "ENGINE"},
+    "firm": {
+      "name": "Isbah Hassan & Associates",
+      "tagline": "architects, Engineers, Builders.",
+      "address": ["101 Y-Block Commercial Area", "D.H.A , LAHORE.TEL/042-5692522", "E.mail:admin@isbahhassan.com"]
+    },
+    "copyright": "ALL RIGHTS RESERVED. NO PART OF THIS DRAWING MAY BE REPRODUCED OR TRANSMITTED IN ANY FORMS BY ANY MEANS WITHOUT WRITTEN PERMISSION OF THE COPYRIGHT HOLDER."
+  }
+}

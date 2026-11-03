@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>UBL Engine</Name>
+    <Assembly>Ubl.Engine.Revit\Ubl.Engine.Revit.dll</Assembly>
+    <AddInId>FF2B6AC3-90D7-40EC-BD1B-F58DE3573262</AddInId>
+    <FullClassName>Ubl.Engine.Revit.App</FullClassName>
+    <VendorId>IHA</VendorId>
+    <VendorDescription>Isbah Hassan &amp; Associates</VendorDescription>
+  </AddIn>
+</RevitAddIns>

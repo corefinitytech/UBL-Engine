@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- DWG/DXF reading, isolated so the core never depends on a CAD library. -->
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <LangVersion>12</LangVersion>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- MIT licence. 3.8.30 is the version the engine was compiled and tested against. -->
+    <PackageReference Include="ACadSharp" Version="3.8.30" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ubl.Engine.Core\Ubl.Engine.Core.csproj" />
+  </ItemGroup>
+
+</Project>

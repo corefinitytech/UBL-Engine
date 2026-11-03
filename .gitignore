@@ -1,0 +1,7 @@
+bin/
+obj/
+.vs/
+*.user
+*.engine-report.txt
+*.engine-error.txt
+*.shell.json

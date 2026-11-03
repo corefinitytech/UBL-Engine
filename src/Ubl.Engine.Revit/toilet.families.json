@@ -1,0 +1,84 @@
+{
+  "families_folder": null,
+  "roles": {
+    "wc": {
+      "family": "WC",
+      "front": "-Y"
+    },
+    "basin": {
+      "family": "Basin",
+      "front": "-Y"
+    },
+    "faucet": {
+      "family": "Faucet",
+      "front": "+X",
+      "note": "spout runs along X; flip to -X if the spout points at the wall"
+    },
+    "mirror": {
+      "family": "Mirror",
+      "front": "+Y",
+      "note": "flat: either side works"
+    },
+    "tissue_holder": {
+      "family": "Tissue Holder",
+      "front": "+Y",
+      "note": "insertion point on its back face, body runs towards +Y"
+    },
+    "muslim_shower": {
+      "family": "Muslim Shower",
+      "front": "-Y",
+      "note": "family is drawn lying down, 17-19 ft from its insertion point: placed as drawn, flagged in the report"
+    },
+    "soap_dispenser": {
+      "family": "Soap Dispenser",
+      "front": "-Y",
+      "note": "family is drawn lying down: placed as drawn, flagged in the report"
+    },
+    "dryer": {
+      "family": "Dryer",
+      "front": "-Y"
+    },
+    "towel_dispenser": {
+      "family": "Tissue Dispenser",
+      "front": "-Y"
+    },
+    "floor_trap": {
+      "family": "Floor Trap",
+      "front": "-Y"
+    },
+    "exhaust": {
+      "family": "Exhaust",
+      "front": "-X",
+      "mount": null,
+      "note": "3in thin along X: a wall unit facing X. -X assumes its insertion point is on its back face (it is: X -3 to 0). Flip to +X if it faces the wall."
+    },
+    "ceiling_light": {
+      "family": "Ceiling Light",
+      "front": "-Y",
+      "mount": "ceiling"
+    }
+  },
+  "door_family": "Single-Flush",
+  "door_type_name": "D-03",
+  "floor_finish_thickness": 1,
+  "marker": "UBL-ENGINE:TOILET",
+  "rules": {
+    "basin_rim_height": 32,
+    "mirror_bottom": 42,
+    "soap_bottom": 42,
+    "dryer_bottom": 40,
+    "towel_bottom": 42,
+    "tissue_holder_bottom": 24,
+    "muslim_shower_bottom": 18
+  },
+  "drawings": {
+    "floor_name": "GROUND FLOOR",
+    "sheet_prefix": "AR-",
+    "sheet_start": 141,
+    "door_mark": "D-03",
+    "tile_long": 24,
+    "tile_short": 12,
+    "wall_tile_top": null,
+    "note": "Drawing set AR-141 to AR-148. wall_tile_top null = tiles up to the ceiling. Any other DrawingRules value (label texts, text sizes) can be set here too."
+  }
+}
